@@ -1,0 +1,6 @@
+streamlit
+pandas
+pathlib
+os
+datetime
+shutil
