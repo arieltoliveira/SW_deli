@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 import os
-import datetime
-import plotly.figure_factory as ff
+
 #########
 #notas para alteração nessa pagina
 # 

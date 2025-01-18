@@ -1,9 +1,8 @@
 import streamlit as st
 import pandas as pd
 from pathlib import Path
-import plotly.figure_factory as ff
 import os
-import datetime
+
 
 #########
 ##notas para alteração nessa pagina
